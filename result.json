@@ -8862,9 +8862,9 @@
         "organizationName": "Google Trust Services",
         "commonName": "WR3"
       },
-      "notAfter": "Apr 12 09:08:12 2026 GMT",
-      "expires_iso": "2026-04-12T09:08:12",
-      "serialNumber": "8E67D6D91B56FB2D09AFC152A54ADADC"
+      "notAfter": "Jun  6 10:27:32 2026 GMT",
+      "expires_iso": "2026-06-06T10:27:32",
+      "serialNumber": "8A718D2EAA7E634710A93317050DB2C6"
     },
     "status": {
       "text": "有効",
@@ -31916,7 +31916,7 @@
       "serialNumber": "35B9974E8A4EB34BC43ECBD3"
     },
     "status": {
-      "text": "残り22日",
+      "text": "残り21日",
       "category": "warning"
     }
   },
@@ -42108,22 +42108,11 @@
     "city": "菊池市",
     "url": "https://www.city.kikuchi.lg.jp/",
     "certificate": {
-      "subject": {
-        "commonName": "www.city.kikuchi.lg.jp"
-      },
-      "issuer": {
-        "countryName": "US",
-        "organizationName": "DigiCert Inc",
-        "organizationalUnitName": "www.digicert.com",
-        "commonName": "RapidSSL TLS RSA CA G1"
-      },
-      "notAfter": "Mar 31 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-31T23:59:59",
-      "serialNumber": "0E1651A393B5EACC7DDE0ADE08404DA8"
+      "error": "timed out"
     },
     "status": {
-      "text": "残り24日",
-      "category": "warning"
+      "text": "取得エラー",
+      "category": "error"
     }
   },
   {
