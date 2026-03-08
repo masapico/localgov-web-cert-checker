@@ -1,0 +1,117 @@
+[
+  {
+    "lgcode": "011002",
+    "pref": "北海道",
+    "city": "札幌市",
+    "url": "https://www.city.sapporo.jp/",
+    "certificate": {
+      "subject": {
+        "countryName": "JP",
+        "stateOrProvinceName": "HOKKAIDO",
+        "localityName": "SAPPORO",
+        "organizationName": "CITY OF SAPPORO",
+        "commonName": "*.city.sapporo.jp"
+      },
+      "issuer": {
+        "countryName": "JP",
+        "organizationName": "Japan Registry Services Co., Ltd.",
+        "commonName": "JPRS Organization Validation Authority - G4"
+      },
+      "notAfter": "Apr 30 14:59:59 2026 GMT",
+      "expires_iso": "2026-04-30T14:59:59",
+      "serialNumber": "0D62612C522F40CDD12F571CD3AFBECC"
+    }
+  },
+  {
+    "lgcode": "011011",
+    "pref": "北海道",
+    "city": "札幌市 中央区",
+    "url": "https://www.city.sapporo.jp/chuo/",
+    "certificate": {
+      "subject": {
+        "countryName": "JP",
+        "stateOrProvinceName": "HOKKAIDO",
+        "localityName": "SAPPORO",
+        "organizationName": "CITY OF SAPPORO",
+        "commonName": "*.city.sapporo.jp"
+      },
+      "issuer": {
+        "countryName": "JP",
+        "organizationName": "Japan Registry Services Co., Ltd.",
+        "commonName": "JPRS Organization Validation Authority - G4"
+      },
+      "notAfter": "Apr 30 14:59:59 2026 GMT",
+      "expires_iso": "2026-04-30T14:59:59",
+      "serialNumber": "0D62612C522F40CDD12F571CD3AFBECC"
+    }
+  },
+  {
+    "lgcode": "011029",
+    "pref": "北海道",
+    "city": "札幌市 北区",
+    "url": "https://www.city.sapporo.jp/kitaku/",
+    "certificate": {
+      "subject": {
+        "countryName": "JP",
+        "stateOrProvinceName": "HOKKAIDO",
+        "localityName": "SAPPORO",
+        "organizationName": "CITY OF SAPPORO",
+        "commonName": "*.city.sapporo.jp"
+      },
+      "issuer": {
+        "countryName": "JP",
+        "organizationName": "Japan Registry Services Co., Ltd.",
+        "commonName": "JPRS Organization Validation Authority - G4"
+      },
+      "notAfter": "Apr 30 14:59:59 2026 GMT",
+      "expires_iso": "2026-04-30T14:59:59",
+      "serialNumber": "0D62612C522F40CDD12F571CD3AFBECC"
+    }
+  },
+  {
+    "lgcode": "011037",
+    "pref": "北海道",
+    "city": "札幌市 東区",
+    "url": "https://www.city.sapporo.jp/higashi/",
+    "certificate": {
+      "subject": {
+        "countryName": "JP",
+        "stateOrProvinceName": "HOKKAIDO",
+        "localityName": "SAPPORO",
+        "organizationName": "CITY OF SAPPORO",
+        "commonName": "*.city.sapporo.jp"
+      },
+      "issuer": {
+        "countryName": "JP",
+        "organizationName": "Japan Registry Services Co., Ltd.",
+        "commonName": "JPRS Organization Validation Authority - G4"
+      },
+      "notAfter": "Apr 30 14:59:59 2026 GMT",
+      "expires_iso": "2026-04-30T14:59:59",
+      "serialNumber": "0D62612C522F40CDD12F571CD3AFBECC"
+    }
+  },
+  {
+    "lgcode": "011045",
+    "pref": "北海道",
+    "city": "札幌市 白石区",
+    "url": "https://www.city.sapporo.jp/shiroishi/",
+    "certificate": {
+      "subject": {
+        "countryName": "JP",
+        "stateOrProvinceName": "HOKKAIDO",
+        "localityName": "SAPPORO",
+        "organizationName": "CITY OF SAPPORO",
+        "commonName": "*.city.sapporo.jp"
+      },
+      "issuer": {
+        "countryName": "JP",
+        "organizationName": "Japan Registry Services Co., Ltd.",
+        "commonName": "JPRS Organization Validation Authority - G4"
+      },
+      "notAfter": "Apr 30 14:59:59 2026 GMT",
+      "expires_iso": "2026-04-30T14:59:59",
+      "serialNumber": "0D62612C522F40CDD12F571CD3AFBECC"
+    }
+  }
+]
