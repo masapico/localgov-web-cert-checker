@@ -513,7 +513,7 @@
       "serialNumber": "5995B859A52AA7174809591920CEAD59020E954D"
     },
     "status": {
-      "text": "残り9日",
+      "text": "残り8日",
       "category": "warning"
     }
   },
@@ -969,7 +969,7 @@
       "serialNumber": "58413F8C2D7548BC33CF41F6317DE49C"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -1220,7 +1220,7 @@
       "serialNumber": "6AC50CF9E0DE2C67A1E6B62AC0D20D66"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -1274,7 +1274,7 @@
       "serialNumber": "2BE52A874CBF2F047EBC826ACD33DE4F9D1FE4ED"
     },
     "status": {
-      "text": "残り22日",
+      "text": "残り21日",
       "category": "warning"
     }
   },
@@ -1355,7 +1355,7 @@
       "serialNumber": "5D8E7E7DC3C24274964005145D012EF1EB94FEBD"
     },
     "status": {
-      "text": "残り19日",
+      "text": "残り18日",
       "category": "warning"
     }
   },
@@ -1454,7 +1454,7 @@
       "serialNumber": "5385432B05FE2D6688BEFEC16D557D6A37F80783"
     },
     "status": {
-      "text": "残り26日",
+      "text": "残り25日",
       "category": "warning"
     }
   },
@@ -1872,7 +1872,7 @@
       "serialNumber": "32DAD4B7984602E7344E028A3491AF53"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -2001,7 +2001,7 @@
       "serialNumber": "6BDD0FCE3355A8C8DDBEF4159D654CE0"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -2146,7 +2146,7 @@
       "serialNumber": "11DBCFBDD99915D8F2D6EF010E269A1490EE3718"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -2747,7 +2747,7 @@
       "serialNumber": "3135A23A5F35E672D02E98D73EAD38B4"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -2906,7 +2906,7 @@
       "serialNumber": "09B289AB2CE644C0984B67E26923D7E3AFA7FBB2"
     },
     "status": {
-      "text": "残り11日",
+      "text": "残り10日",
       "category": "warning"
     }
   },
@@ -3437,7 +3437,7 @@
       "serialNumber": "53808A4EFD3B7F5192011D571C2678A47E0812C1"
     },
     "status": {
-      "text": "残り19日",
+      "text": "残り18日",
       "category": "warning"
     }
   },
@@ -3637,7 +3637,7 @@
       "serialNumber": "5FD00AE8179E6FC52CB3DB252FDA9FCE"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -4017,7 +4017,7 @@
       "serialNumber": "2B79CC838A2B018F2589E498B7869E2C"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -4663,7 +4663,7 @@
       "serialNumber": "470ABB242DDBC3E3ACECF882F732C727"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -5428,7 +5428,7 @@
       "serialNumber": "4F3814FEA7BD9DB05177C1F80FE7BEDE"
     },
     "status": {
-      "text": "残り5日",
+      "text": "残り4日",
       "category": "warning"
     }
   },
@@ -5570,7 +5570,7 @@
       "serialNumber": "609129FDCE5ABB67DEA215D0"
     },
     "status": {
-      "text": "残り10日",
+      "text": "残り9日",
       "category": "warning"
     }
   },
@@ -5818,21 +5818,11 @@
     "city": "岩手町",
     "url": "https://town.iwate.iwate.jp/",
     "certificate": {
-      "subject": {
-        "commonName": "town.iwate.iwate.jp"
-      },
-      "issuer": {
-        "countryName": "JP",
-        "organizationName": "Japan Registry Services Co., Ltd.",
-        "commonName": "JPRS Domain Validation Authority - G4"
-      },
-      "notAfter": "Dec 31 14:59:59 2026 GMT",
-      "expires_iso": "2026-12-31T14:59:59",
-      "serialNumber": "37BFD175EFDE641B770CB58B12C8CDAA"
+      "error": "timed out"
     },
     "status": {
-      "text": "有効",
-      "category": "valid"
+      "text": "取得エラー",
+      "category": "error"
     }
   },
   {
@@ -6742,7 +6732,7 @@
       "serialNumber": "378AC730978047AD1472B4C93F35102A"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -6765,7 +6755,7 @@
       "serialNumber": "3902C5222BE0508796BF6B062854BF50"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -10668,7 +10658,7 @@
       "serialNumber": "4AAF6F968D81D4D80524E20BDC302A02"
     },
     "status": {
-      "text": "残り17日",
+      "text": "残り16日",
       "category": "warning"
     }
   },
@@ -12396,7 +12386,7 @@
       "serialNumber": "39FE1E0C78D4F25FB7FC83FF14724960"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -12419,7 +12409,7 @@
       "serialNumber": "17B76A32DB43FDF45DFEEDA7399B01D3"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -14782,7 +14772,7 @@
       "serialNumber": "2FAE58BFAEC6C030A9EBD9632DD2472F"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -15452,7 +15442,7 @@
       "serialNumber": "01771096087CE802BAEA241171921D3E"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -15503,7 +15493,7 @@
       "serialNumber": "4BC1CE8F5011E15F3F7747DB6EF7CADE"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -15599,7 +15589,7 @@
       "serialNumber": "081F1F872DE2EDDF60DB1E74FB0104A0"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -17043,7 +17033,7 @@
       "serialNumber": "578BFC6730E28B6ECEA7258FAAFB0AAC"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -17139,7 +17129,7 @@
       "serialNumber": "254F81B8333F134740B7990FE0951DDA"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -17302,7 +17292,7 @@
       "serialNumber": "4F95507FFA59B12AD4397C2F3706E3A4"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -19997,7 +19987,7 @@
       "serialNumber": "0B8D9BF3E7119C7ECB609AEAC8DB79422CECC0F0"
     },
     "status": {
-      "text": "残り8日",
+      "text": "残り7日",
       "category": "warning"
     }
   },
@@ -20736,7 +20726,7 @@
       "serialNumber": "5DB51BDA854F1AA14FDDB752181026EE"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -21348,7 +21338,7 @@
       "serialNumber": "24A90870AFCC6C96148A5D42CC7844AE"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -21371,7 +21361,7 @@
       "serialNumber": "4A13C5A25D87126F2E3E81C2C3195696"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -24033,7 +24023,7 @@
       "serialNumber": "759412A74D592E5BEFB1453121AAC488"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -25254,7 +25244,7 @@
       "serialNumber": "7A82C82A4CC1851D058ACB2ACEB055FC4E1F7573"
     },
     "status": {
-      "text": "残り17日",
+      "text": "残り16日",
       "category": "warning"
     }
   },
@@ -28543,7 +28533,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28570,7 +28560,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28597,7 +28587,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28624,7 +28614,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28651,7 +28641,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28678,7 +28668,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28705,7 +28695,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28732,7 +28722,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28759,7 +28749,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28786,7 +28776,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28813,7 +28803,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -28840,7 +28830,7 @@
       "serialNumber": "1480E14E07BE52986A1802978844D618DD103A42"
     },
     "status": {
-      "text": "残り12日",
+      "text": "残り11日",
       "category": "warning"
     }
   },
@@ -29001,7 +28991,7 @@
       "serialNumber": "638D3914A0AE03AE36EA18252ACAAFF4"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -29070,7 +29060,7 @@
       "serialNumber": "1F62EE2951DF4BBC49412D2A188AADAE"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -30782,7 +30772,7 @@
       "serialNumber": "353B9160EB09C88E493EA132A0A97555457FE6FD"
     },
     "status": {
-      "text": "残り25日",
+      "text": "残り24日",
       "category": "warning"
     }
   },
@@ -32113,7 +32103,7 @@
       "serialNumber": "49D68EEA9EED9C021EFDC7A75AB73FE9"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -32182,7 +32172,7 @@
       "serialNumber": "16D73D0239DCA0F5164F87D9F8C18A49"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -32460,7 +32450,7 @@
       "serialNumber": "71779E4C44414E20C17A00FD29503F08F902966C"
     },
     "status": {
-      "text": "残り13日",
+      "text": "残り12日",
       "category": "warning"
     }
   },
@@ -32506,7 +32496,7 @@
       "serialNumber": "30CEC75EB6B0824D213141E91325B4CE"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -32690,7 +32680,7 @@
       "serialNumber": "2574C454E46542BA1B09C05CDA218E1D"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -32851,7 +32841,7 @@
       "serialNumber": "18A78DDB9F00A618216A3A79212B61D2"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -33012,7 +33002,7 @@
       "serialNumber": "0C3BB12805992B2D481CA712CD3C7111"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -33475,7 +33465,7 @@
       "serialNumber": "7BD93BF4B2699636A04EB264E6B5D9C4"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -33706,7 +33696,7 @@
       "serialNumber": "0A8939582BAF51226DA0B0BE098CE083"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -34621,7 +34611,7 @@
       "serialNumber": "0A72C6B65BEF25A942680F5E6733F4D1"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -37008,7 +36998,7 @@
       "serialNumber": "175CB18D3791A8D8034EF3758BC084ED"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -38603,7 +38593,7 @@
       "serialNumber": "06D910B93F9AF30B57B4F91022E57AA36018"
     },
     "status": {
-      "text": "残り16日",
+      "text": "残り15日",
       "category": "warning"
     }
   },
@@ -40573,7 +40563,7 @@
       "serialNumber": "69B1C4478B0ECB3EBA085E6E4A0D4470"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -42108,11 +42098,22 @@
     "city": "菊池市",
     "url": "https://www.city.kikuchi.lg.jp/",
     "certificate": {
-      "error": "timed out"
+      "subject": {
+        "commonName": "www.city.kikuchi.lg.jp"
+      },
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com",
+        "commonName": "RapidSSL TLS RSA CA G1"
+      },
+      "notAfter": "Mar 31 23:59:59 2026 GMT",
+      "expires_iso": "2026-03-31T23:59:59",
+      "serialNumber": "0E1651A393B5EACC7DDE0ADE08404DA8"
     },
     "status": {
-      "text": "取得エラー",
-      "category": "error"
+      "text": "残り24日",
+      "category": "warning"
     }
   },
   {
@@ -42180,7 +42181,7 @@
       "serialNumber": "513440EDFC98FF34BDC551B578E6CE34"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -42295,7 +42296,7 @@
       "serialNumber": "46B53BD93F76E778C84E42A7EC313F49"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -42692,7 +42693,7 @@
       "serialNumber": "18242CA25C2B481380C7FB3DC94EAB05"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -42715,7 +42716,7 @@
       "serialNumber": "32B867DCB7C57C26CB2C49CE3BC8253C"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -42738,7 +42739,7 @@
       "serialNumber": "24DA522D14D6B33316DF7A17239760E6"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -42899,7 +42900,7 @@
       "serialNumber": "24FE8A98DD97C151185C158104068AED"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -42922,7 +42923,7 @@
       "serialNumber": "43B038F4C2B53FC382B10E1CFC765465"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
@@ -42968,7 +42969,7 @@
       "serialNumber": "0F5733020D431EBC7A68E623D5F3BC32"
     },
     "status": {
-      "text": "残り24日",
+      "text": "残り23日",
       "category": "warning"
     }
   },
