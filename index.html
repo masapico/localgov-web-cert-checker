@@ -20,6 +20,7 @@
 
 <div class="container my-5">
     <h1 class="h3 mb-4 text-center">自治体サイト証明書 有効期限一覧</h1>
+    <p class="text-center text-muted" id="last-updated"></p>
     
     <div class="card shadow-sm">
         <div class="card-body">
@@ -31,7 +32,7 @@
                             <th style="cursor: pointer;" onclick="sortTable(1)">自治体名 ↕</th>
                             <th style="cursor: pointer;" onclick="sortTable(2)">URL ↕</th>
                             <th style="cursor: pointer;" onclick="sortTable(3)">有効期限 (JST) ↕</th>
-                            <th>ステータス</th>
+                            <th style="cursor: pointer;" onclick="sortTable(4)">ステータス ↕</th>
                         </tr>
                     </thead>
                     <tbody id="data-container">

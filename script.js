@@ -3,6 +3,23 @@ let currentSortColumn = -1;
 let isAscending = true;
 
 /**
+ * 最終更新日時を読み込んで表示する
+ */
+async function loadLastUpdated() {
+    try {
+        const response = await fetch('updated.txt');
+        if (response.ok) {
+            const lastUpdated = await response.text();
+            const lastUpdatedElement = document.getElementById('last-updated');
+            if (lastUpdatedElement) {
+                lastUpdatedElement.textContent = `最終更新: ${lastUpdated}`;
+            }
+        }
+    } catch (error) {
+        console.error('最終更新日時の読み込みに失敗しました:', error);
+    }
+}
+/**
  * JSONデータを読み込んでテーブルに表示する
  */
 async function loadCertData() {
@@ -13,49 +30,56 @@ async function loadCertData() {
         const response = await fetch('result.json');
         const data = await response.json();
         
-        const now = new Date();
-
         data.forEach(item => {
             const row = document.createElement('tr');
             
             const cert = item.certificate;
-            // certificateが存在しない、またはerrorプロパティがある場合をエラーとする
-            const hasError = !cert || cert.error;
+            const status = item.status;
 
-            if (hasError) {
-                const errorMsg = cert ? cert.error : 'データなし';
+            let statusBadgeHtml;
+            let statusSortValue = 4; // ソート用: 1:expired, 2:error, 3:warning, 4:valid
+
+            switch (status.category) {
+                case 'valid':
+                    statusBadgeHtml = `<span class="badge bg-success">${status.text}</span>`;
+                    statusSortValue = 4;
+                    break;
+                case 'warning':
+                    row.classList.add('warning');
+                    statusBadgeHtml = `<span class="badge bg-warning text-dark">${status.text}</span>`;
+                    statusSortValue = 3;
+                    break;
+                case 'expired':
+                    row.classList.add('expired');
+                    statusBadgeHtml = `<span class="badge bg-danger">${status.text}</span>`;
+                    statusSortValue = 1;
+                    break;
+                case 'error':
+                default:
+                    statusBadgeHtml = `<span class="badge bg-secondary">${status.text}</span>`;
+                    statusSortValue = 2;
+                    break;
+            }
+
+            if (status.category === 'error') {
+                const errorMsg = cert ? cert.error : 'データ取得エラー';
                 row.innerHTML = `
                     <td>${item.pref}</td>
                     <td>${item.city}</td>
                     <td><a href="${item.url}" target="_blank" class="text-break">${item.url}</a></td>
                     <td data-value="0000-00-00T00:00:00">${errorMsg}</td>
-                    <td><span class="badge bg-secondary">取得エラー</span></td>
+                    <td data-value="${statusSortValue}">${statusBadgeHtml}</td>
                 `;
             } else {
                 const expireDate = new Date(cert.expires_iso);
                 const dateString = expireDate.toLocaleString('ja-JP');
-                
-                // 有効期限までの残り日数を計算
-                const diffTime = expireDate - now;
-                const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-                
-                let statusBadge = '<span class="badge bg-success">有効</span>';
-                
-                if (diffTime < 0) {
-                    row.classList.add('expired');
-                    statusBadge = '<span class="badge bg-danger">期限切れ</span>';
-                } else if (diffDays <= 30) {
-                    row.classList.add('warning');
-                    // 修正箇所：テンプレートリテラルで正しく変数展開
-                    statusBadge = `<span class="badge bg-warning text-dark">残り${diffDays}日</span>`;
-                }
 
                 row.innerHTML = `
                     <td>${item.pref}</td>
                     <td>${item.city}</td>
                     <td><a href="${item.url}" target="_blank" class="text-break">${item.url}</a></td>
                     <td data-value="${cert.expires_iso}">${dateString}</td>
-                    <td>${statusBadge}</td>
+                    <td data-value="${statusSortValue}">${statusBadgeHtml}</td>
                 `;
             }
             container.appendChild(row);
@@ -109,4 +133,5 @@ function sortTable(columnIndex) {
 }
 
 // 実行
+loadLastUpdated();
 loadCertData();
