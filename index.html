@@ -8,38 +8,36 @@
     <style>
         .expired { background-color: #f8d7da !important; } /* 期限切れ: 赤 */
         .warning { background-color: #fff3cd !important; } /* 期限間近: 黄 */
-        th, td {white-space: nowrap;}
         td {
             font-size: .8rem;
-            max-width: 200px;
-            overflow-x: hidden;
+            overflow: hidden;
+        }
+        .col-nowrap {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;;
         }
     </style>
 </head>
 <body class="bg-light">
 
-<div class="container my-5">
-    <h1 class="h3 mb-4 text-center">自治体サイト証明書 有効期限一覧</h1>
+<div class="container my-3">
+    <h1 class="h3 mb-4 text-center">自治体Webサイト証明書 有効期限一覧</h1>
     <p class="text-center text-muted" id="last-updated"></p>
-    
-    <div class="card shadow-sm">
-        <div class="card-body">
-            <div class="table-responsive">
-                <table class="table table-hover" id="cert-table">
-                    <thead class="table-dark">
-                        <tr>
-                            <th style="cursor: pointer;" onclick="sortTable(0)">都道府県 ↕</th>
-                            <th style="cursor: pointer;" onclick="sortTable(1)">自治体名 ↕</th>
-                            <th style="cursor: pointer;" onclick="sortTable(2)">URL ↕</th>
-                            <th style="cursor: pointer;" onclick="sortTable(3)">有効期限 (JST) ↕</th>
-                            <th style="cursor: pointer;" onclick="sortTable(4)">ステータス ↕</th>
-                        </tr>
-                    </thead>
-                    <tbody id="data-container">
-                    </tbody>
-                </table>
-            </div>
-        </div>
+    <div class="table-responsive">
+        <table class="table table-hover table-striped" id="cert-table">
+            <thead class="table-dark">
+                <tr>
+                    <th class="col-nowrap" style="cursor: pointer;" onclick="sortTable(0)">都道府県 ↕</th>
+                    <th style="cursor: pointer;" onclick="sortTable(1)">自治体名 ↕</th>
+                    <th style="cursor: pointer;" onclick="sortTable(2)">URL ↕</th>
+                    <th style="cursor: pointer;" onclick="sortTable(3)">有効期限(JST) ↕</th>
+                    <th class="col-nowrap" style="cursor: pointer;" onclick="sortTable(4)">ステータス ↕</th>
+                </tr>
+            </thead>
+            <tbody id="data-container">
+            </tbody>
+        </table>
     </div>
 </div>
 
