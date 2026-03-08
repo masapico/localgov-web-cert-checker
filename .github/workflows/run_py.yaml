@@ -1,0 +1,29 @@
+name: Run Python Script
+
+on:
+  push:
+    branches: [ "main" ]  # mainブランチにpushされたら実行
+  schedule:
+    - cron: '0 0 * * *'    # 毎日UTC 0:00（日本時間 9:00）に実行
+  workflow_dispatch:      # 手動実行ボタンも追加（テストに便利）
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: リポジトリをチェックアウト
+      uses: actions/checkout@v4
+
+    - name: Pythonのセットアップ
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.14'
+
+    - name: 依存ライブラリのインストール
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Pythonスクリプトの実行
+      run: python start_check.py
