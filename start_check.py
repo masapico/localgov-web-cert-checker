@@ -8,7 +8,7 @@ import requests
 import os
 
 # テスト設定（Trueにすると最初の5件のみ実行）
-IS_TEST = False
+IS_TEST = True
 
 # 設定：URLが指定されていればURLから、Noneならローカルファイルから読み込みます
 # DATA_URL = "https://raw.githubusercontent.com/code4fukui/localgovjp/refs/heads/master/deno/c-localgovjp-utf8.csv"
