@@ -3,9 +3,10 @@ name: Run Cert Check Script
 on:
   push:
     branches: [ "main" ]
-    # 自身が更新した result.json で再起動しないよう、このファイルを無視設定にする
+    # 自身が更新した データにより で再起動しないよう、このファイルを無視設定にする
     paths-ignore:
       - 'result.json'
+      - 'updated.txt'
   schedule:
     - cron: '0 12 * * 0'  # 毎週日曜 21:00 (JST)
   workflow_dispatch:      # 手動実行用
@@ -43,7 +44,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         # ファイルが存在する場合のみ追加・コミット
         if [ -f result.json ]; then
-          git add result.json
+          git add result.json updated.txt
           git commit -m "Update certificate check results [skip ci]" || echo "No changes to commit"
           git push
         fi

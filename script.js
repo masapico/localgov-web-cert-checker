@@ -34,35 +34,14 @@ async function loadCertData() {
             const row = document.createElement('tr');
             
             const cert = item.certificate;
-            const status = item.status;
 
             let statusBadgeHtml;
-            let statusSortValue = 4; // ソート用: 1:expired, 2:error, 3:warning, 4:valid
+            let statusSortValue;
 
-            switch (status.category) {
-                case 'valid':
-                    statusBadgeHtml = `<span class="badge bg-success">${status.text}</span>`;
-                    statusSortValue = 4;
-                    break;
-                case 'warning':
-                    row.classList.add('warning');
-                    statusBadgeHtml = `<span class="badge bg-warning text-dark">${status.text}</span>`;
-                    statusSortValue = 3;
-                    break;
-                case 'expired':
-                    row.classList.add('expired');
-                    statusBadgeHtml = `<span class="badge bg-danger">${status.text}</span>`;
-                    statusSortValue = 1;
-                    break;
-                case 'error':
-                default:
-                    statusBadgeHtml = `<span class="badge bg-secondary">${status.text}</span>`;
-                    statusSortValue = 2;
-                    break;
-            }
-
-            if (status.category === 'error') {
+            if (cert.error) {
                 const errorMsg = cert ? cert.error : 'データ取得エラー';
+                statusBadgeHtml = `<span class="badge bg-secondary">取得エラー</span>`;
+                statusSortValue = 2; // error
                 row.innerHTML = `
                     <td>${item.pref}</td>
                     <td>${item.city}</td>
@@ -71,9 +50,44 @@ async function loadCertData() {
                     <td data-value="${statusSortValue}">${statusBadgeHtml}</td>
                 `;
             } else {
+                // ステータスをクライアントサイドで計算
+                const now = new Date();
                 const expireDate = new Date(cert.expires_iso);
-                const dateString = expireDate.toLocaleString('ja-JP');
+                const diff = expireDate - now;
+                const diffDays = diff / (1000 * 60 * 60 * 24);
 
+                let statusText;
+                let statusCategory;
+
+                if (diffDays < 0) {
+                    statusText = "期限切れ";
+                    statusCategory = "expired";
+                } else if (diffDays <= 30) {
+                    statusText = `残り${Math.ceil(diffDays)}日`;
+                    statusCategory = "warning";
+                } else {
+                    statusText = "有効";
+                    statusCategory = "valid";
+                }
+
+                switch (statusCategory) {
+                    case 'valid':
+                        statusBadgeHtml = `<span class="badge bg-success">${statusText}</span>`;
+                        statusSortValue = 4;
+                        break;
+                    case 'warning':
+                        row.classList.add('warning');
+                        statusBadgeHtml = `<span class="badge bg-warning text-dark">${statusText}</span>`;
+                        statusSortValue = 3;
+                        break;
+                    case 'expired':
+                        row.classList.add('expired');
+                        statusBadgeHtml = `<span class="badge bg-danger">${statusText}</span>`;
+                        statusSortValue = 1;
+                        break;
+                }
+
+                const dateString = expireDate.toLocaleString('ja-JP');
                 row.innerHTML = `
                     <td>${item.pref}</td>
                     <td>${item.city}</td>
