@@ -9,7 +9,7 @@ import os
 import math
 
 # テスト設定（Trueにすると最初の20件のみ実行）
-IS_TEST = True
+IS_TEST = False
 
 DATA_URL = "https://raw.githubusercontent.com/code4fukui/localgovjp/refs/heads/master/deno/c-localgovjp-utf8.csv"
 # DATA_URL = None  # ローカルファイルを使う場合はコメントアウト
