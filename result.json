@@ -367,9 +367,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
       },
-      "notAfter": "Apr  4 05:13:48 2026 GMT",
-      "expires_iso": "2026-04-04T05:13:48",
-      "serialNumber": "6296FA45C2950CCABAEB4C98"
+      "notAfter": "Apr 11 08:51:16 2027 GMT",
+      "expires_iso": "2027-04-11T08:51:16",
+      "serialNumber": "29CDCD1AA77B28C9992CC7B0"
     }
   },
   {
@@ -403,11 +403,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 29 08:23:18 2026 GMT",
-      "expires_iso": "2026-03-29T08:23:18",
-      "serialNumber": "60E2D107D95B31DD1C736B66"
+      "notAfter": "Apr  3 05:33:30 2027 GMT",
+      "expires_iso": "2027-04-03T05:33:30",
+      "serialNumber": "72C7C308B5E82341CC9469E4"
     }
   },
   {
@@ -432,9 +432,9 @@
         "organizationName": "Cybertrust Japan Co., Ltd.",
         "commonName": "Cybertrust Japan SureServer EV CA G3"
       },
-      "notAfter": "Mar 16 14:59:00 2026 GMT",
-      "expires_iso": "2026-03-16T14:59:00",
-      "serialNumber": "5995B859A52AA7174809591920CEAD59020E954D"
+      "notAfter": "Sep 17 14:59:00 2026 GMT",
+      "expires_iso": "2026-09-17T14:59:00",
+      "serialNumber": "7723E9035C579A288182ED70BF47C3F579B8C331"
     }
   },
   {
@@ -592,9 +592,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
       },
-      "notAfter": "Mar 30 01:59:30 2026 GMT",
-      "expires_iso": "2026-03-30T01:59:30",
-      "serialNumber": "658D2D67D4B49C346F0BBF1D"
+      "notAfter": "Apr  5 02:01:10 2027 GMT",
+      "expires_iso": "2027-04-05T02:01:10",
+      "serialNumber": "538A0D115DB9406BB8E557F7"
     }
   },
   {
@@ -1314,14 +1314,12 @@
       },
       "issuer": {
         "countryName": "JP",
-        "stateOrProvinceName": "Tokyo",
-        "localityName": "Shibuya-ku",
-        "organizationName": "Nijimo K.K.",
-        "commonName": "FujiSSL SHA2 Domain Secure Site CA"
+        "organizationName": "Nijimo, Inc.",
+        "commonName": "FujiSSL RSA Domain Validation Secure Server CA 2"
       },
-      "notAfter": "Jun  8 23:59:59 2026 GMT",
-      "expires_iso": "2026-06-08T23:59:59",
-      "serialNumber": "9D165179E3752F60872FDD3D6BE06CA9"
+      "notAfter": "Mar 22 23:59:59 2027 GMT",
+      "expires_iso": "2027-03-22T23:59:59",
+      "serialNumber": "D3870706AAB5F87732DC986A54A6A203"
     }
   },
   {
@@ -1393,14 +1391,12 @@
       },
       "issuer": {
         "countryName": "JP",
-        "stateOrProvinceName": "Tokyo",
-        "localityName": "Shibuya-ku",
-        "organizationName": "Nijimo K.K.",
-        "commonName": "FujiSSL SHA2 Domain Secure Site CA"
+        "organizationName": "Nijimo, Inc.",
+        "commonName": "FujiSSL RSA Domain Validation Secure Server CA 2"
       },
-      "notAfter": "Apr  4 23:59:59 2026 GMT",
-      "expires_iso": "2026-04-04T23:59:59",
-      "serialNumber": "1E392564B61D5F760D965264E435A381"
+      "notAfter": "Apr  5 23:59:59 2027 GMT",
+      "expires_iso": "2027-04-05T23:59:59",
+      "serialNumber": "06147F30F894BAFE29668720B7701C77"
     }
   },
   {
@@ -1414,14 +1410,12 @@
       },
       "issuer": {
         "countryName": "JP",
-        "stateOrProvinceName": "Tokyo",
-        "localityName": "Shibuya-ku",
-        "organizationName": "Nijimo K.K.",
-        "commonName": "FujiSSL SHA2 Domain Secure Site CA"
+        "organizationName": "Nijimo, Inc.",
+        "commonName": "FujiSSL RSA Domain Validation Secure Server CA 2"
       },
-      "notAfter": "Mar 28 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-28T23:59:59",
-      "serialNumber": "89D7940A4C97C118C7E7308F56F961E7"
+      "notAfter": "Apr  3 23:59:59 2027 GMT",
+      "expires_iso": "2027-04-03T23:59:59",
+      "serialNumber": "8F1A24792476AE062ED7A0C4DD0A26B0"
     }
   },
   {
@@ -1497,14 +1491,12 @@
       },
       "issuer": {
         "countryName": "JP",
-        "stateOrProvinceName": "Tokyo",
-        "localityName": "Shibuya-ku",
-        "organizationName": "Nijimo K.K.",
-        "commonName": "FujiSSL SHA2 Domain Secure Site CA"
+        "organizationName": "Nijimo, Inc.",
+        "commonName": "FujiSSL RSA Domain Validation Secure Server CA 2"
       },
-      "notAfter": "Mar 16 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-16T23:59:59",
-      "serialNumber": "08A70AD5EBC08F8B904E7331DCCDA6B9"
+      "notAfter": "Mar 28 23:59:59 2027 GMT",
+      "expires_iso": "2027-03-28T23:59:59",
+      "serialNumber": "D8CA6C6AAFDCA9BDBC287335854F2513"
     }
   },
   {
@@ -1649,9 +1641,9 @@
         "organizationalUnitName": "www.digicert.com",
         "commonName": "RapidSSL TLS RSA CA G1"
       },
-      "notAfter": "Mar 16 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-16T23:59:59",
-      "serialNumber": "01FF5D6ABD649A97BB792C931EFFB813"
+      "notAfter": "Mar 17 23:59:59 2027 GMT",
+      "expires_iso": "2027-03-17T23:59:59",
+      "serialNumber": "0A13249CEDDCD53266624A5E6D204892"
     }
   },
   {
@@ -2417,9 +2409,9 @@
         "organizationName": "Cybertrust Japan Co., Ltd.",
         "commonName": "Cybertrust Japan SureServer CA G4"
       },
-      "notAfter": "Mar 18 14:59:00 2026 GMT",
-      "expires_iso": "2026-03-18T14:59:00",
-      "serialNumber": "09B289AB2CE644C0984B67E26923D7E3AFA7FBB2"
+      "notAfter": "Mar 18 14:59:00 2027 GMT",
+      "expires_iso": "2027-03-18T14:59:00",
+      "serialNumber": "65A20080A43D596A8AE709583563D41F6A7BF9B6"
     }
   },
   {
@@ -2709,12 +2701,11 @@
       "issuer": {
         "countryName": "US",
         "organizationName": "DigiCert Inc",
-        "organizationalUnitName": "www.digicert.com",
-        "commonName": "GeoTrust TLS RSA CA G1"
+        "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
       },
-      "notAfter": "Mar 23 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-23T23:59:59",
-      "serialNumber": "036029B58AE7057B20D509400C7E407E"
+      "notAfter": "Sep 16 23:59:59 2026 GMT",
+      "expires_iso": "2026-09-16T23:59:59",
+      "serialNumber": "0BDE4AC652DC279C1D99E2CC5FDA6C2F"
     }
   },
   {
@@ -3024,13 +3015,13 @@
         "commonName": "www.town.atsuma.lg.jp"
       },
       "issuer": {
-        "countryName": "JP",
-        "organizationName": "Japan Registry Services Co., Ltd.",
-        "commonName": "JPRS Domain Validation Authority - G4"
+        "countryName": "BE",
+        "organizationName": "GlobalSign nv-sa",
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 31 14:59:59 2026 GMT",
-      "expires_iso": "2026-03-31T14:59:59",
-      "serialNumber": "5FD00AE8179E6FC52CB3DB252FDA9FCE"
+      "notAfter": "Mar  8 05:54:19 2027 GMT",
+      "expires_iso": "2027-03-08T05:54:19",
+      "serialNumber": "34BD1461921599A18DC438FB"
     }
   },
   {
@@ -3413,14 +3404,12 @@
       },
       "issuer": {
         "countryName": "JP",
-        "stateOrProvinceName": "Tokyo",
-        "localityName": "Shibuya-ku",
-        "organizationName": "Nijimo K.K.",
-        "commonName": "FujiSSL SHA2 Domain Secure Site CA"
+        "organizationName": "Nijimo, Inc.",
+        "commonName": "FujiSSL RSA Domain Validation Secure Server CA 2"
       },
-      "notAfter": "Mar 31 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-31T23:59:59",
-      "serialNumber": "285C711D8C4467A78F0B31E2DFDD4EB1"
+      "notAfter": "Apr  5 23:59:59 2027 GMT",
+      "expires_iso": "2027-04-05T23:59:59",
+      "serialNumber": "24654333B47806CBB5E9C8D8B6465240"
     }
   },
   {
@@ -3518,14 +3507,12 @@
       },
       "issuer": {
         "countryName": "JP",
-        "stateOrProvinceName": "Tokyo",
-        "localityName": "Shibuya-ku",
-        "organizationName": "Nijimo K.K.",
-        "commonName": "FujiSSL SHA2 Domain Secure Site CA"
+        "organizationName": "Nijimo, Inc.",
+        "commonName": "FujiSSL RSA Domain Validation Secure Server CA 2"
       },
-      "notAfter": "Mar 21 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-21T23:59:59",
-      "serialNumber": "13DDD69F4F928C167F00985ED01B5085"
+      "notAfter": "Apr  4 23:59:59 2027 GMT",
+      "expires_iso": "2027-04-04T23:59:59",
+      "serialNumber": "BD90CCD1AD9B6B8A21FEADEA792FA79F"
     }
   },
   {
@@ -3789,9 +3776,9 @@
         "organizationName": "Google Trust Services",
         "commonName": "WR3"
       },
-      "notAfter": "Apr 20 09:24:40 2026 GMT",
-      "expires_iso": "2026-04-20T09:24:40",
-      "serialNumber": "D222294BF7DCAECA12BAE05495953C42"
+      "notAfter": "Jun 12 10:37:21 2026 GMT",
+      "expires_iso": "2026-06-12T10:37:21",
+      "serialNumber": "D91EE37534FA04C00AB19B1FF73CAF8A"
     }
   },
   {
@@ -3855,9 +3842,9 @@
         "organizationName": "Google Trust Services",
         "commonName": "WR3"
       },
-      "notAfter": "Apr 17 04:22:44 2026 GMT",
-      "expires_iso": "2026-04-17T04:22:44",
-      "serialNumber": "DE2F96E08281EF420A3C6C18C2A10519"
+      "notAfter": "Jun 10 13:42:12 2026 GMT",
+      "expires_iso": "2026-06-10T13:42:12",
+      "serialNumber": "6A041F148520D61A123A580B5F1324A8"
     }
   },
   {
@@ -4214,9 +4201,9 @@
         "organizationName": "Google Trust Services",
         "commonName": "WR3"
       },
-      "notAfter": "Apr 15 07:07:34 2026 GMT",
-      "expires_iso": "2026-04-15T07:07:34",
-      "serialNumber": "50824FE3250493EC093772660DB11547"
+      "notAfter": "Jun 11 16:31:17 2026 GMT",
+      "expires_iso": "2026-06-11T16:31:17",
+      "serialNumber": "4D0B2BBE918720EB09C8E871C26A2CC6"
     }
   },
   {
@@ -4298,9 +4285,9 @@
         "organizationName": "Google Trust Services",
         "commonName": "WR3"
       },
-      "notAfter": "Apr 14 00:04:01 2026 GMT",
-      "expires_iso": "2026-04-14T00:04:01",
-      "serialNumber": "A797F6A6D35C17EB0ACDF13C660271EE"
+      "notAfter": "Jun  7 17:28:03 2026 GMT",
+      "expires_iso": "2026-06-07T17:28:03",
+      "serialNumber": "B53DD94C98B357EC1025105F04F7186A"
     }
   },
   {
@@ -4441,9 +4428,9 @@
         "organizationalUnitName": "www.digicert.com",
         "commonName": "GeoTrust TLS RSA CA G1"
       },
-      "notAfter": "Mar 28 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-28T23:59:59",
-      "serialNumber": "0B74F877225C2A73DD3C83485D3C2796"
+      "notAfter": "Sep 23 23:59:59 2026 GMT",
+      "expires_iso": "2026-09-23T23:59:59",
+      "serialNumber": "09FB9EED321E3EE2BC0942AC5C1E6F90"
     }
   },
   {
@@ -4494,18 +4481,18 @@
       "subject": {
         "countryName": "JP",
         "stateOrProvinceName": "AOMORI",
-        "localityName": "sannohe-gun, shingo-mura",
+        "localityName": "SANNOHE-GUN SHINGO-MURA",
         "organizationName": "SHINGO",
         "commonName": "www.vill.shingo.aomori.jp"
       },
       "issuer": {
         "countryName": "JP",
-        "organizationName": "SECOM Trust Systems CO.,LTD.",
-        "commonName": "SECOM Passport for Web SR 3.0 CA"
+        "organizationName": "SECOM Trust Systems Co., Ltd.",
+        "commonName": "SECOM Passport for Web OV RSA CA 2024"
       },
-      "notAfter": "Mar 12 14:59:59 2026 GMT",
-      "expires_iso": "2026-03-12T14:59:59",
-      "serialNumber": "4F3814FEA7BD9DB05177C1F80FE7BEDE"
+      "notAfter": "Sep 12 14:59:59 2026 GMT",
+      "expires_iso": "2026-09-12T14:59:59",
+      "serialNumber": "33D3097827BB46DA07B193525C7E40F9"
     }
   },
   {
@@ -5547,9 +5534,9 @@
         "organizationName": "Google Trust Services",
         "commonName": "WR3"
       },
-      "notAfter": "Apr 22 00:51:46 2026 GMT",
-      "expires_iso": "2026-04-22T00:51:46",
-      "serialNumber": "9031265BC68D34B310D5D862ABCC7C95"
+      "notAfter": "Jun 13 10:07:47 2026 GMT",
+      "expires_iso": "2026-06-13T10:07:47",
+      "serialNumber": "A7B21416016C71B20940FADA384F43B3"
     }
   },
   {
@@ -5605,16 +5592,16 @@
     "url": "https://www.town.shibata.miyagi.jp/",
     "certificate": {
       "subject": {
-        "commonName": "*.town.shibata.miyagi.jp"
+        "commonName": "www.town.shibata.miyagi.jp"
       },
       "issuer": {
-        "countryName": "JP",
-        "organizationName": "Japan Registry Services Co., Ltd.",
-        "commonName": "JPRS Domain Validation Authority - G4"
+        "countryName": "US",
+        "organizationName": "Google Trust Services",
+        "commonName": "WR3"
       },
-      "notAfter": "Mar 31 14:59:59 2026 GMT",
-      "expires_iso": "2026-03-31T14:59:59",
-      "serialNumber": "3902C5222BE0508796BF6B062854BF50"
+      "notAfter": "Jun  9 06:58:05 2026 GMT",
+      "expires_iso": "2026-06-09T06:58:05",
+      "serialNumber": "982A2F19E4505F330AED058CAC75F989"
     }
   },
   {
@@ -5842,9 +5829,9 @@
         "organizationName": "Google Trust Services",
         "commonName": "WR3"
       },
-      "notAfter": "Apr 20 04:00:08 2026 GMT",
-      "expires_iso": "2026-04-20T04:00:08",
-      "serialNumber": "0E8A7E65B05407D510AA761BF1362B17"
+      "notAfter": "Jun 12 05:16:51 2026 GMT",
+      "expires_iso": "2026-06-12T05:16:51",
+      "serialNumber": "9374F9CEA86ABE330A9349DFDC29FB79"
     }
   },
   {
@@ -6003,9 +5990,9 @@
         "organizationName": "DigiCert Inc",
         "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
       },
-      "notAfter": "Apr 10 23:59:59 2026 GMT",
-      "expires_iso": "2026-04-10T23:59:59",
-      "serialNumber": "08DFBDEA30E4CACB46329AEE0B5CCFE8"
+      "notAfter": "Sep 26 23:59:59 2026 GMT",
+      "expires_iso": "2026-09-26T23:59:59",
+      "serialNumber": "07AA115EDD8CCE2D6175FAC0CED6E81A"
     }
   },
   {
@@ -6076,20 +6063,16 @@
     "url": "https://www.city.yurihonjo.lg.jp/",
     "certificate": {
       "subject": {
-        "countryName": "JP",
-        "stateOrProvinceName": "akita",
-        "localityName": "yurihonjo-city",
-        "organizationName": "yurihonjo-city",
         "commonName": "www.city.yurihonjo.lg.jp"
       },
       "issuer": {
-        "countryName": "JP",
-        "organizationName": "SECOM Trust Systems CO.,LTD.",
-        "commonName": "SECOM Passport for Web SR 3.0 CA"
+        "countryName": "US",
+        "organizationName": "Google Trust Services",
+        "commonName": "WR3"
       },
-      "notAfter": "Nov 25 14:59:59 2026 GMT",
-      "expires_iso": "2026-11-25T14:59:59",
-      "serialNumber": "3F2B65AB4A4449CA49CFB26097EB4E24"
+      "notAfter": "Jun  9 06:49:47 2026 GMT",
+      "expires_iso": "2026-06-09T06:49:47",
+      "serialNumber": "CAFB40FD99514E20097EFDF8A0D0EC20"
     }
   },
   {
@@ -6372,13 +6355,13 @@
         "commonName": "www.town.misato.akita.jp"
       },
       "issuer": {
-        "countryName": "BE",
-        "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
+        "countryName": "US",
+        "organizationName": "Google Trust Services",
+        "commonName": "WR3"
       },
-      "notAfter": "Mar 14 05:37:42 2026 GMT",
-      "expires_iso": "2026-03-14T05:37:42",
-      "serialNumber": "5646447D0DE28332A87B4FEF"
+      "notAfter": "Jun  8 05:26:59 2026 GMT",
+      "expires_iso": "2026-06-08T05:26:59",
+      "serialNumber": "C058112E90692F4309F2E8F2A37DCEC1"
     }
   },
   {
@@ -7053,9 +7036,9 @@
         "organizationalUnitName": "www.digicert.com",
         "commonName": "RapidSSL TLS RSA CA G1"
       },
-      "notAfter": "Apr 12 23:59:59 2026 GMT",
-      "expires_iso": "2026-04-12T23:59:59",
-      "serialNumber": "0AB793C55A8C1D6E619D082983B65210"
+      "notAfter": "Sep 24 23:59:59 2026 GMT",
+      "expires_iso": "2026-09-24T23:59:59",
+      "serialNumber": "01DEF91E8D0670B63CDDB353C12BE02C"
     }
   },
   {
@@ -7375,11 +7358,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
       },
-      "notAfter": "May 10 08:56:08 2026 GMT",
-      "expires_iso": "2026-05-10T08:56:08",
-      "serialNumber": "7D3730EA710A0EC5D9C1A2CF"
+      "notAfter": "Apr  4 01:16:32 2027 GMT",
+      "expires_iso": "2027-04-04T01:16:32",
+      "serialNumber": "40FD3BF7AA620165EA12498B"
     }
   },
   {
@@ -7627,20 +7610,16 @@
     "url": "https://www.town.inawashiro.fukushima.jp/",
     "certificate": {
       "subject": {
-        "countryName": "JP",
-        "stateOrProvinceName": "FUKUSHIMA",
-        "localityName": "INAWASHIRO",
-        "organizationName": "Inawashiro town",
         "commonName": "www.town.inawashiro.fukushima.jp"
       },
       "issuer": {
-        "countryName": "US",
-        "organizationName": "DigiCert Inc",
-        "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        "countryName": "BE",
+        "organizationName": "GlobalSign nv-sa",
+        "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
       },
-      "notAfter": "Apr 26 23:59:59 2026 GMT",
-      "expires_iso": "2026-04-26T23:59:59",
-      "serialNumber": "094F6E5D062E4998A4FA22F99B3DEE03"
+      "notAfter": "Apr  4 01:33:14 2027 GMT",
+      "expires_iso": "2027-04-04T01:33:14",
+      "serialNumber": "7BCC9F1D12EDD2386FECF031"
     }
   },
   {
@@ -8157,9 +8136,9 @@
         "organizationName": "Google Trust Services",
         "commonName": "WR3"
       },
-      "notAfter": "Apr 14 16:40:12 2026 GMT",
-      "expires_iso": "2026-04-14T16:40:12",
-      "serialNumber": "FEE6A88099CDE1410A5936F7A6AAB3A9"
+      "notAfter": "Jun  7 18:04:23 2026 GMT",
+      "expires_iso": "2026-06-07T18:04:23",
+      "serialNumber": "B48C617B9C50E66A1252053E76545536"
     }
   },
   {
@@ -8574,9 +8553,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
       },
-      "notAfter": "Apr 12 01:20:14 2026 GMT",
-      "expires_iso": "2026-04-12T01:20:14",
-      "serialNumber": "146834C17EF3609258D6B008"
+      "notAfter": "Nov 12 01:20:14 2026 GMT",
+      "expires_iso": "2026-11-12T01:20:14",
+      "serialNumber": "9F4808E468B92AC2D7E7BC"
     }
   },
   {
@@ -8997,11 +8976,11 @@
       "issuer": {
         "countryName": "US",
         "organizationName": "Let's Encrypt",
-        "commonName": "E7"
+        "commonName": "E8"
       },
-      "notAfter": "Apr 14 03:31:45 2026 GMT",
-      "expires_iso": "2026-04-14T03:31:45",
-      "serialNumber": "060D306CB9244A25B1153428E45D91842846"
+      "notAfter": "Jun 13 02:33:51 2026 GMT",
+      "expires_iso": "2026-06-13T02:33:51",
+      "serialNumber": "05FD184876A47514DCC233C09AFF28E4DCC5"
     }
   },
   {
@@ -9832,9 +9811,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -9889,9 +9868,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -9994,9 +9973,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10013,9 +9992,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10052,9 +10031,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10138,11 +10117,11 @@
       "issuer": {
         "countryName": "US",
         "organizationName": "Let's Encrypt",
-        "commonName": "E8"
+        "commonName": "E7"
       },
-      "notAfter": "Apr 11 19:34:17 2026 GMT",
-      "expires_iso": "2026-04-11T19:34:17",
-      "serialNumber": "06EA95367208912B3FC1FA236EF262C1C4E6"
+      "notAfter": "Jun 10 19:32:15 2026 GMT",
+      "expires_iso": "2026-06-10T19:32:15",
+      "serialNumber": "06C5E4CD0EA646314C6732AC96158974B7BF"
     }
   },
   {
@@ -10159,9 +10138,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10178,9 +10157,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10197,9 +10176,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10239,9 +10218,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10357,9 +10336,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10437,9 +10416,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10456,9 +10435,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10475,9 +10454,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign Atlas R3 DV TLS CA 2026 Q1"
       },
-      "notAfter": "Jun  3 08:19:48 2026 GMT",
-      "expires_iso": "2026-06-03T08:19:48",
-      "serialNumber": "0139E84D6539E0BB19873D8BBDE81976"
+      "notAfter": "Jun 10 12:14:06 2026 GMT",
+      "expires_iso": "2026-06-10T12:14:06",
+      "serialNumber": "01C6AA4150491BAFC3BF0912EA79B377"
     }
   },
   {
@@ -10973,9 +10952,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
       },
-      "notAfter": "Mar 22 05:47:17 2026 GMT",
-      "expires_iso": "2026-03-22T05:47:17",
-      "serialNumber": "45D9BF8A1C339CC494586348"
+      "notAfter": "Mar 28 03:41:50 2027 GMT",
+      "expires_iso": "2027-03-28T03:41:50",
+      "serialNumber": "63D13BBF29BCCACFB613422B"
     }
   },
   {
@@ -11229,9 +11208,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
       },
-      "notAfter": "Mar 25 08:47:13 2026 GMT",
-      "expires_iso": "2026-03-25T08:47:13",
-      "serialNumber": "2EFFBB8C0099BAAF20DAA864"
+      "notAfter": "Apr 12 07:04:43 2027 GMT",
+      "expires_iso": "2027-04-12T07:04:43",
+      "serialNumber": "47C3E3114EC162A624D07FD9"
     }
   },
   {
@@ -12262,11 +12241,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 16 00:47:05 2026 GMT",
-      "expires_iso": "2026-03-16T00:47:05",
-      "serialNumber": "272F896201DF128AEC28E8C1"
+      "notAfter": "Mar 22 02:14:20 2027 GMT",
+      "expires_iso": "2027-03-22T02:14:20",
+      "serialNumber": "7419689D73DB7358B7AEFEA1"
     }
   },
   {
@@ -14214,9 +14193,9 @@
         "organizationName": "Japan Registry Services Co., Ltd.",
         "commonName": "JPRS Domain Validation Authority - G4"
       },
-      "notAfter": "Mar 31 14:59:59 2026 GMT",
-      "expires_iso": "2026-03-31T14:59:59",
-      "serialNumber": "578BFC6730E28B6ECEA7258FAAFB0AAC"
+      "notAfter": "Aug 31 14:59:59 2026 GMT",
+      "expires_iso": "2026-08-31T14:59:59",
+      "serialNumber": "24912C4DFEFE491316AED10C8BB871C0"
     }
   },
   {
@@ -16302,11 +16281,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 14 00:35:16 2026 GMT",
-      "expires_iso": "2026-03-14T00:35:16",
-      "serialNumber": "502450682120BD0345465CC5"
+      "notAfter": "Apr  3 07:57:02 2027 GMT",
+      "expires_iso": "2027-04-03T07:57:02",
+      "serialNumber": "45B6052FE2C2F1EB047BC25E"
     }
   },
   {
@@ -16672,9 +16651,9 @@
         "organizationName": "Cybertrust Japan Co., Ltd.",
         "commonName": "Cybertrust Japan SureServer CA G4"
       },
-      "notAfter": "Mar 15 14:59:00 2026 GMT",
-      "expires_iso": "2026-03-15T14:59:00",
-      "serialNumber": "0B8D9BF3E7119C7ECB609AEAC8DB79422CECC0F0"
+      "notAfter": "Mar 15 14:59:00 2027 GMT",
+      "expires_iso": "2027-03-15T14:59:00",
+      "serialNumber": "5FD9C165293596F2EE8F1931C7C2684E93803321"
     }
   },
   {
@@ -16788,11 +16767,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 30 09:26:58 2026 GMT",
-      "expires_iso": "2026-03-30T09:26:58",
-      "serialNumber": "77F0F8C55B9B2AC4B1BDF88C"
+      "notAfter": "Apr  7 01:42:38 2027 GMT",
+      "expires_iso": "2027-04-07T01:42:38",
+      "serialNumber": "153D080DF86D4DC6ECC35E83"
     }
   },
   {
@@ -17678,11 +17657,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Apr 25 04:50:00 2026 GMT",
-      "expires_iso": "2026-04-25T04:50:00",
-      "serialNumber": "05A722BA3560860B5A3013B6"
+      "notAfter": "Mar 13 05:08:56 2027 GMT",
+      "expires_iso": "2027-03-13T05:08:56",
+      "serialNumber": "6A103629E05AA1E3F8AED4A4"
     }
   },
   {
@@ -17795,9 +17774,9 @@
         "organizationName": "Japan Registry Services Co., Ltd.",
         "commonName": "JPRS Domain Validation Authority - G4"
       },
-      "notAfter": "Mar 31 14:59:59 2026 GMT",
-      "expires_iso": "2026-03-31T14:59:59",
-      "serialNumber": "24A90870AFCC6C96148A5D42CC7844AE"
+      "notAfter": "Aug 31 14:59:59 2026 GMT",
+      "expires_iso": "2026-08-31T14:59:59",
+      "serialNumber": "084639361E6382A3654B7F62FBB668F4"
     }
   },
   {
@@ -17810,13 +17789,13 @@
         "commonName": "www.town.minobu.lg.jp"
       },
       "issuer": {
-        "countryName": "JP",
-        "organizationName": "Japan Registry Services Co., Ltd.",
-        "commonName": "JPRS Domain Validation Authority - G4"
+        "countryName": "BE",
+        "organizationName": "GlobalSign nv-sa",
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 31 14:59:59 2026 GMT",
-      "expires_iso": "2026-03-31T14:59:59",
-      "serialNumber": "4A13C5A25D87126F2E3E81C2C3195696"
+      "notAfter": "Mar  7 01:00:02 2027 GMT",
+      "expires_iso": "2027-03-07T01:00:02",
+      "serialNumber": "58695D67C852246721E344D4"
     }
   },
   {
@@ -18274,18 +18253,18 @@
       "subject": {
         "countryName": "JP",
         "stateOrProvinceName": "Nagano",
-        "localityName": "Nagano City",
-        "organizationName": "Densan Co.,Ltd.",
-        "commonName": "naganoken-sc.jp"
+        "localityName": "Omachi-Shi",
+        "organizationName": "Omachi City",
+        "commonName": "www.city.omachi.nagano.jp"
       },
       "issuer": {
         "countryName": "US",
         "organizationName": "DigiCert Inc",
-        "commonName": "DigiCert Global G3 TLS ECC SHA384 2020 CA1"
+        "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
       },
-      "notAfter": "Nov 12 23:59:59 2026 GMT",
-      "expires_iso": "2026-11-12T23:59:59",
-      "serialNumber": "07A62FF7B0CBDE8052A1D7B287DCB00D"
+      "notAfter": "Dec 15 23:59:59 2026 GMT",
+      "expires_iso": "2026-12-15T23:59:59",
+      "serialNumber": "09219C19D0B04FBFFEE2B59DA4320BD6"
     }
   },
   {
@@ -20159,20 +20138,16 @@
     "url": "https://www.town.yoro.gifu.jp/",
     "certificate": {
       "subject": {
-        "countryName": "JP",
-        "stateOrProvinceName": "Gifu",
-        "localityName": "Yoro-gun, Yoro-cho",
-        "organizationName": "yoro town",
         "commonName": "www.town.yoro.gifu.jp"
       },
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign RSA OV SSL CA 2018"
+        "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
       },
-      "notAfter": "Apr 27 00:55:55 2026 GMT",
-      "expires_iso": "2026-04-27T00:55:55",
-      "serialNumber": "5BB8D9FF9E4B14DC7D1927EF"
+      "notAfter": "Mar  1 07:45:30 2027 GMT",
+      "expires_iso": "2027-03-01T07:45:30",
+      "serialNumber": "266346F93DDD5D9702C62928"
     }
   },
   {
@@ -20492,9 +20467,9 @@
         "organizationName": "DigiCert Inc",
         "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
       },
-      "notAfter": "Mar 20 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-20T23:59:59",
-      "serialNumber": "04756373EE4A84181EF0457E3F0ABF19"
+      "notAfter": "Sep 17 23:59:59 2026 GMT",
+      "expires_iso": "2026-09-17T23:59:59",
+      "serialNumber": "0EDA25959C58A5D11CC6CDB601FAF22D"
     }
   },
   {
@@ -21077,9 +21052,9 @@
         "organizationName": "Cybertrust Japan Co., Ltd.",
         "commonName": "Cybertrust Japan SureServer CA G4"
       },
-      "notAfter": "Mar 24 14:59:00 2026 GMT",
-      "expires_iso": "2026-03-24T14:59:00",
-      "serialNumber": "7A82C82A4CC1851D058ACB2ACEB055FC4E1F7573"
+      "notAfter": "Sep 17 14:59:00 2026 GMT",
+      "expires_iso": "2026-09-17T14:59:00",
+      "serialNumber": "4D83680A4E42885D97677E6347811AC82755D707"
     }
   },
   {
@@ -21380,9 +21355,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign RSA OV SSL CA 2018"
       },
-      "notAfter": "Mar 24 02:52:29 2026 GMT",
-      "expires_iso": "2026-03-24T02:52:29",
-      "serialNumber": "2FC0187DF00E51D7BB98DB05"
+      "notAfter": "Apr 10 05:00:42 2027 GMT",
+      "expires_iso": "2027-04-10T05:00:42",
+      "serialNumber": "0577612179D1FD4299C8E75D"
     }
   },
   {
@@ -21848,8 +21823,8 @@
       "subject": {
         "countryName": "JP",
         "stateOrProvinceName": "Aichi",
-        "localityName": "Okazaki-Shi",
-        "organizationName": "Okazaki City",
+        "localityName": "Okazaki city",
+        "organizationName": "Okazaki city",
         "commonName": "www.city.okazaki.lg.jp"
       },
       "issuer": {
@@ -21857,9 +21832,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign RSA OV SSL CA 2018"
       },
-      "notAfter": "Sep 11 23:04:31 2026 GMT",
-      "expires_iso": "2026-09-11T23:04:31",
-      "serialNumber": "6EB8F88F5919F0334E94CE96"
+      "notAfter": "Feb 16 04:57:45 2027 GMT",
+      "expires_iso": "2027-02-16T04:57:45",
+      "serialNumber": "65ABA0DF661C04DB2CAB94D8"
     }
   },
   {
@@ -22566,11 +22541,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 30 05:08:51 2026 GMT",
-      "expires_iso": "2026-03-30T05:08:51",
-      "serialNumber": "415782FEDB2A9DBDED84BA32"
+      "notAfter": "Apr  7 05:00:11 2027 GMT",
+      "expires_iso": "2027-04-07T05:00:11",
+      "serialNumber": "35E0836804472FEA28B77012"
     }
   },
   {
@@ -23711,9 +23686,9 @@
         "organizationName": "Google Trust Services",
         "commonName": "WE1"
       },
-      "notAfter": "Apr 13 16:55:29 2026 GMT",
-      "expires_iso": "2026-04-13T16:55:29",
-      "serialNumber": "B20CD888D2BED69B0D0C300D17F95553"
+      "notAfter": "Jun 11 19:50:45 2026 GMT",
+      "expires_iso": "2026-06-11T19:50:45",
+      "serialNumber": "2792349C1BDF18190DA91209BC7DD17E"
     }
   },
   {
@@ -25248,11 +25223,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 17 02:36:02 2026 GMT",
-      "expires_iso": "2026-03-17T02:36:02",
-      "serialNumber": "03FA6506F9323D12A17658DB"
+      "notAfter": "Mar 28 01:00:12 2027 GMT",
+      "expires_iso": "2027-03-28T01:00:12",
+      "serialNumber": "7960A278DE7D1B789B6C2509"
     }
   },
   {
@@ -25522,11 +25497,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Apr  5 05:09:47 2026 GMT",
-      "expires_iso": "2026-04-05T05:09:47",
-      "serialNumber": "096B5CAD59EB0B3271DFCCE3"
+      "notAfter": "Apr  7 07:34:24 2027 GMT",
+      "expires_iso": "2027-04-07T07:34:24",
+      "serialNumber": "2E48BC38B485CBC5A9BA5BA1"
     }
   },
   {
@@ -26443,7 +26418,21 @@
     "city": "西脇市",
     "url": "https://www.city.nishiwaki.lg.jp/",
     "certificate": {
-      "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)"
+      "subject": {
+        "countryName": "JP",
+        "stateOrProvinceName": "Hyogo",
+        "localityName": "Nishiwaki-City",
+        "organizationName": "Nishiwaki City",
+        "commonName": "www.city.nishiwaki.lg.jp"
+      },
+      "issuer": {
+        "countryName": "JP",
+        "organizationName": "SECOM Trust Systems CO.,LTD.",
+        "commonName": "SECOM Passport for Web SR 3.0 CA"
+      },
+      "notAfter": "Mar 22 14:59:59 2027 GMT",
+      "expires_iso": "2027-03-22T14:59:59",
+      "serialNumber": "1845D500C7E4B9BDEAFF75D777C498F5"
     }
   },
   {
@@ -26562,11 +26551,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Apr  6 07:55:22 2026 GMT",
-      "expires_iso": "2026-04-06T07:55:22",
-      "serialNumber": "19E709DEAC65560D5F641FCC"
+      "notAfter": "Apr 12 01:59:55 2027 GMT",
+      "expires_iso": "2027-04-12T01:59:55",
+      "serialNumber": "4F07D75470C6C93CAC9ECAA7"
     }
   },
   {
@@ -26829,9 +26818,9 @@
         "organizationName": "Japan Registry Services Co., Ltd.",
         "commonName": "JPRS Domain Validation Authority - G4"
       },
-      "notAfter": "Mar 31 14:59:59 2026 GMT",
-      "expires_iso": "2026-03-31T14:59:59",
-      "serialNumber": "16D73D0239DCA0F5164F87D9F8C18A49"
+      "notAfter": "Aug 31 14:59:59 2026 GMT",
+      "expires_iso": "2026-08-31T14:59:59",
+      "serialNumber": "1BE0EA1B85825E81CC855525C939EF51"
     }
   },
   {
@@ -27059,9 +27048,9 @@
         "organizationName": "Cybertrust Japan Co., Ltd.",
         "commonName": "Cybertrust Japan SureServer CA G4"
       },
-      "notAfter": "Mar 20 14:59:00 2026 GMT",
-      "expires_iso": "2026-03-20T14:59:00",
-      "serialNumber": "71779E4C44414E20C17A00FD29503F08F902966C"
+      "notAfter": "Sep 17 14:59:00 2026 GMT",
+      "expires_iso": "2026-09-17T14:59:00",
+      "serialNumber": "31C9C6426FDCDD99E74F7AEDED1DE764A90ED50A"
     }
   },
   {
@@ -28802,11 +28791,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Apr  4 01:34:58 2026 GMT",
-      "expires_iso": "2026-04-04T01:34:58",
-      "serialNumber": "766F1E1024EA5B1C68346AC9"
+      "notAfter": "Apr  7 07:02:23 2027 GMT",
+      "expires_iso": "2027-04-07T07:02:23",
+      "serialNumber": "643BFA1D06C884125847AACA"
     }
   },
   {
@@ -29170,9 +29159,9 @@
         "organizationName": "Let's Encrypt",
         "commonName": "R13"
       },
-      "notAfter": "Apr 14 03:52:07 2026 GMT",
-      "expires_iso": "2026-04-14T03:52:07",
-      "serialNumber": "06B6F44154B8A59729D286BF19953464EDBC"
+      "notAfter": "Jun 13 06:03:21 2026 GMT",
+      "expires_iso": "2026-06-13T06:03:21",
+      "serialNumber": "05696CBB222AB8CFCA6DE3F7F791A21D3520"
     }
   },
   {
@@ -31643,11 +31632,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 23 05:46:22 2026 GMT",
-      "expires_iso": "2026-03-23T05:46:22",
-      "serialNumber": "5E7726CA2340D415247295C8"
+      "notAfter": "Apr  3 05:30:14 2027 GMT",
+      "expires_iso": "2027-04-03T05:30:14",
+      "serialNumber": "0244F2DD6B00253D377D54DC"
     }
   },
   {
@@ -32156,11 +32145,11 @@
       "issuer": {
         "countryName": "US",
         "organizationName": "Let's Encrypt",
-        "commonName": "R12"
+        "commonName": "R13"
       },
-      "notAfter": "Mar 23 16:39:35 2026 GMT",
-      "expires_iso": "2026-03-23T16:39:35",
-      "serialNumber": "06D910B93F9AF30B57B4F91022E57AA36018"
+      "notAfter": "Jun  7 15:27:28 2026 GMT",
+      "expires_iso": "2026-06-07T15:27:28",
+      "serialNumber": "0622D2325A9BE126BF09CF950CEAF928F9E2"
     }
   },
   {
@@ -32873,9 +32862,9 @@
         "organizationalUnitName": "www.digicert.com",
         "commonName": "GeoTrust TLS RSA CA G1"
       },
-      "notAfter": "Apr  4 23:59:59 2026 GMT",
-      "expires_iso": "2026-04-04T23:59:59",
-      "serialNumber": "0E541E927E81AB2AB38E51D24F4BD39B"
+      "notAfter": "Sep 23 23:59:59 2026 GMT",
+      "expires_iso": "2026-09-23T23:59:59",
+      "serialNumber": "0D238B9C1FF064AAB3700E723BD23438"
     }
   },
   {
@@ -34727,11 +34716,11 @@
       "issuer": {
         "countryName": "US",
         "organizationName": "Let's Encrypt",
-        "commonName": "R12"
+        "commonName": "R13"
       },
-      "notAfter": "Apr  9 05:25:10 2026 GMT",
-      "expires_iso": "2026-04-09T05:25:10",
-      "serialNumber": "067B47ED8E960D564ADA1C8BACD287475D2E"
+      "notAfter": "Jun  8 01:25:28 2026 GMT",
+      "expires_iso": "2026-06-08T01:25:28",
+      "serialNumber": "06AE33B778E9FCB35B5F3A6708B7F1E37F1F"
     }
   },
   {
@@ -35101,9 +35090,9 @@
         "organizationalUnitName": "www.digicert.com",
         "commonName": "RapidSSL TLS RSA CA G1"
       },
-      "notAfter": "Mar 31 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-31T23:59:59",
-      "serialNumber": "0E1651A393B5EACC7DDE0ADE08404DA8"
+      "notAfter": "Sep 25 23:59:59 2026 GMT",
+      "expires_iso": "2026-09-25T23:59:59",
+      "serialNumber": "093E2154D8BBCAFC8F90185193049A58"
     }
   },
   {
@@ -35829,9 +35818,9 @@
         "organizationName": "GlobalSign nv-sa",
         "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
       },
-      "notAfter": "Mar 30 04:16:34 2026 GMT",
-      "expires_iso": "2026-03-30T04:16:34",
-      "serialNumber": "5687FBA17D0B2B31D5641A97"
+      "notAfter": "Oct 30 04:16:34 2026 GMT",
+      "expires_iso": "2026-10-30T04:16:34",
+      "serialNumber": "652D2B66123452E367F66025"
     }
   },
   {
@@ -35910,14 +35899,12 @@
       },
       "issuer": {
         "countryName": "JP",
-        "stateOrProvinceName": "Tokyo",
-        "localityName": "Shibuya-ku",
-        "organizationName": "Nijimo K.K.",
-        "commonName": "FujiSSL SHA2 Domain Secure Site CA"
+        "organizationName": "Nijimo, Inc.",
+        "commonName": "FujiSSL RSA Domain Validation Secure Server CA 2"
       },
-      "notAfter": "Mar 20 23:59:59 2026 GMT",
-      "expires_iso": "2026-03-20T23:59:59",
-      "serialNumber": "248B9752B990C7A02E7080AAE880E25A"
+      "notAfter": "Apr  3 23:59:59 2027 GMT",
+      "expires_iso": "2027-04-03T23:59:59",
+      "serialNumber": "C437347F4099E6C29B88C1F019001FB1"
     }
   },
   {
@@ -36341,11 +36328,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 31 02:54:19 2026 GMT",
-      "expires_iso": "2026-03-31T02:54:19",
-      "serialNumber": "1D140AF37E6AFB2A331D2D98"
+      "notAfter": "Apr  6 08:57:48 2027 GMT",
+      "expires_iso": "2027-04-06T08:57:48",
+      "serialNumber": "21A25697B1279CFCD6EAA9E3"
     }
   },
   {
@@ -37110,11 +37097,11 @@
       "issuer": {
         "countryName": "BE",
         "organizationName": "GlobalSign nv-sa",
-        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Mar 30 00:19:37 2026 GMT",
-      "expires_iso": "2026-03-30T00:19:37",
-      "serialNumber": "204F1EAE06EC07CCB916D160"
+      "notAfter": "Apr  7 01:45:33 2027 GMT",
+      "expires_iso": "2027-04-07T01:45:33",
+      "serialNumber": "567A4A21AF52CF6AC61F6F49"
     }
   },
   {
@@ -37297,20 +37284,16 @@
     "url": "https://www.town.yakushima.kagoshima.jp/",
     "certificate": {
       "subject": {
-        "countryName": "JP",
-        "stateOrProvinceName": "Kagoshima",
-        "localityName": "Yakushima",
-        "organizationName": "Yakushima Town",
         "commonName": "www.town.yakushima.kagoshima.jp"
       },
       "issuer": {
-        "countryName": "US",
-        "organizationName": "DigiCert Inc",
-        "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        "countryName": "BE",
+        "organizationName": "GlobalSign nv-sa",
+        "commonName": "GlobalSign GCC R6 AlphaSSL CA 2025"
       },
-      "notAfter": "Jun 30 23:59:59 2026 GMT",
-      "expires_iso": "2026-06-30T23:59:59",
-      "serialNumber": "0581EE4A0E6C419372C8BEE709F2641A"
+      "notAfter": "Mar  7 23:29:09 2027 GMT",
+      "expires_iso": "2027-03-07T23:29:09",
+      "serialNumber": "71CC706612B729A64A9C9E2F"
     }
   },
   {
